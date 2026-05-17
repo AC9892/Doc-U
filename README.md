@@ -18,6 +18,12 @@ Official discord.py references:
 - [discord.ext.tasks](https://discordpy.readthedocs.io/en/stable/ext/tasks/)
 - [discord.py FAQ](https://discordpy.readthedocs.io/en/stable/faq.html)
 
+Doc U Important Cmd documents
+- [/docs](https://github.com/AC9892/Doc-U/blob/main/ReadME%20Python/docs.md)
+- [/docsearch](https://github.com/AC9892/Doc-U/blob/main/ReadME%20Python/docsearch.md)
+- [/apiref](https://github.com/AC9892/Doc-U/blob/main/ReadME%20Python/apiref.md)
+- [/doccategory](https://github.com/AC9892/Doc-U/blob/main/ReadME%20Python/doccategory.md)
+    
 ## Project Layout
 
 `Main.py` creates the bot, configures intents, registers error handlers, loads every command extension from `AllCMDS`, and syncs slash commands.
